@@ -1,6 +1,6 @@
-# 와-😄 반갑습니다- 👋 
+# 와-😄 반갑습니다 👋 
 
-## 프론트엔드 개발자가 되고싶어요
+## 실력있는 프론트엔드 개발자가 되고싶다..
 
 ## 언어
 * Javascript, (Typescript) 🌱
@@ -9,11 +9,9 @@
 ## 프레임워크
 * Vue
 * (React) 🌱
-* Django
 * (Node, Express) 🌱
 
 
-*~~신기하네~~*
 
 <!--
 **EHwooKim/EHwooKim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
